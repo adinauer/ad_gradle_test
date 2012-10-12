@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="adnb" name="at.dinauer.gradletest.GameTest" tests="1" time="0.047" timestamp="2012-10-12T11:53:08">
+  <properties />
+  <testcase classname="at.dinauer.gradletest.GameTest" name="test" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
